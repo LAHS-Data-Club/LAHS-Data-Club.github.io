@@ -1,1 +1,8 @@
-iframe.clubsList {  width: 100%;  height: 600px; }
+iframe.clubsList {
+    width: 100%;
+    height: 600px;
+    background-color: transparent;
+    border: 0px none transparent;
+    padding: 0px;
+    overflow: hidden;
+}
